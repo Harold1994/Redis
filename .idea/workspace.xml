@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1e00d666-97aa-4d7f-989a-528fbc687d00" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShoppingCar.py" beforeDir="false" afterPath="$PROJECT_DIR$/ShoppingCar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestAlwaysTrue.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestAlwaysTrue.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch-06/Auto_Complete.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch-06/Auto_Complete.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,51 +11,61 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Redis$Unittests_for_TestAlwaysTrue_TestAlwaysTrue_test_assertTrue.coverage" NAME="Unittests for TestAlwaysTrue.TestAlwaysTrue.test_assertTrue Coverage Results" MODIFIED="1536808793032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Redis$Redis.coverage" NAME="Redis Coverage Results" MODIFIED="1536825570713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Redis$Unittests_for_Search_TestCh07_test_set_operations.coverage" NAME="Unittests for Search.TestCh07.test_set_operations Coverage Results" MODIFIED="1537759054469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch-07" />
     <SUITE FILE_PATH="coverage/Redis$Unittests_for_TestAlwaysTrue_TestAlwaysTrue_test_assertIs.coverage" NAME="Unittests for TestAlwaysTrue.TestAlwaysTrue.test_assertIs Coverage Results" MODIFIED="1536808768419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Redis$pub_sub.coverage" NAME="pub-sub Coverage Results" MODIFIED="1536841748380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch-03" />
+    <SUITE FILE_PATH="coverage/Redis$Unittests_for_Search_TestCh07_test_search_with_sort.coverage" NAME="Unittests for Search.TestCh07.test_search_with_sort Coverage Results" MODIFIED="1537763002147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch-07" />
+    <SUITE FILE_PATH="coverage/Redis$Unittests_for_Search_TestCh07_test_parse_and_search.coverage" NAME="Unittests for Search.TestCh07.test_parse_and_search Coverage Results" MODIFIED="1537761256692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch-07" />
     <SUITE FILE_PATH="coverage/Redis$Unittests_for_TestAlwaysTrue_TestAlwaysTrue_test_assertFalse.coverage" NAME="Unittests for TestAlwaysTrue.TestAlwaysTrue.test_assertFalse Coverage Results" MODIFIED="1536808778663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Redis$Unittests_in_Search_py.coverage" NAME="Unittests in Search.py Coverage Results" MODIFIED="1537674317247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch-07" />
     <SUITE FILE_PATH="coverage/Redis$Unittests_for_TestAlwaysTrue_TestAlwaysTrue.coverage" NAME="Unittests for TestAlwaysTrue.TestAlwaysTrue Coverage Results" MODIFIED="1536808740384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Redis$LoginCookie.coverage" NAME="LoginCookie Coverage Results" MODIFIED="1536824964802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch-02" />
+    <SUITE FILE_PATH="coverage/Redis$Unittests_for_TestAlwaysTrue_TestAlwaysTrue_test_assertTrue.coverage" NAME="Unittests for TestAlwaysTrue.TestAlwaysTrue.test_assertTrue Coverage Results" MODIFIED="1536808793032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Redis$Redis.coverage" NAME="Redis Coverage Results" MODIFIED="1536825570713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Redis$pub_sub.coverage" NAME="pub-sub Coverage Results" MODIFIED="1536841748380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch-03" />
+    <SUITE FILE_PATH="coverage/Redis$Unittests_for_Search_TestCh07_test_search_and_zscore.coverage" NAME="Unittests for Search.TestCh07.test_search_and_zscore Coverage Results" MODIFIED="1537874238872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch-07" />
+    <SUITE FILE_PATH="coverage/Redis$Unittests_for_Search_TestCh07_test_parse_query.coverage" NAME="Unittests for Search.TestCh07.test_parse_query Coverage Results" MODIFIED="1537761303223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch-07" />
+    <SUITE FILE_PATH="coverage/Redis$Unittests_for_Search_TestCh07_test_string_to_score.coverage" NAME="Unittests for Search.TestCh07.test_string_to_score Coverage Results" MODIFIED="1537876306149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch-07" />
+    <SUITE FILE_PATH="coverage/Redis$Unittests_for_Search_TestCh07_test_index_document.coverage" NAME="Unittests for Search.TestCh07.test_index_document Coverage Results" MODIFIED="1537626410628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch-07" />
     <SUITE FILE_PATH="coverage/Redis$LogRecord.coverage" NAME="LogRecord Coverage Results" MODIFIED="1537175713375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch-05" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="2039703011">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="12" />
+          <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.6" value="5" />
           <entry key="project.open.time.7" value="2" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ipynb" value="2" />
-          <entry key="py" value="20" />
+          <entry key="py" value="27" />
           <entry key="pyi" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IPNB" value="2" />
-          <entry key="Python" value="20" />
+          <entry key="Python" value="27" />
           <entry key="PythonStub" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="2078" />
-          <entry key="py" value="28279" />
+          <entry key="Python Console" value="2186" />
+          <entry key="py" value="36362" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="30357" />
+          <entry key="Python" value="38547" />
+          <entry key="RegExp" value="1" />
         </counts>
       </usages-collector>
     </session>
@@ -67,50 +73,16 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ch-06/Auto_Complete.py">
+        <entry file="file://$PROJECT_DIR$/ch-07/Search.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="374" column="23" selection-start-line="374" selection-start-column="23" selection-end-line="374" selection-end-column="23" />
+            <state relative-caret-position="450">
+              <caret line="266" column="37" selection-start-line="266" selection-start-column="37" selection-end-line="266" selection-end-column="37" />
               <folding>
-                <element signature="e#0#9#0" expanded="true" />
-                <marker date="1537541892052" expanded="true" signature="241:246" ph="..." />
-                <marker date="1537541892052" expanded="true" signature="476:481" ph="..." />
-                <marker date="1537541892052" expanded="true" signature="565:570" ph="..." />
-                <marker date="1537541892052" expanded="true" signature="861:866" ph="..." />
-                <marker date="1537541892052" expanded="true" signature="1069:1074" ph="..." />
-                <marker date="1537541892052" expanded="true" signature="1839:1844" ph="..." />
-                <marker date="1537541892052" expanded="true" signature="1917:1922" ph="..." />
-                <marker date="1537541892052" expanded="true" signature="2014:2019" ph="..." />
-                <marker date="1537541892052" expanded="true" signature="2308:2313" ph="..." />
-                <marker date="1537541892052" expanded="true" signature="12448:12711" ph="..." />
+                <element signature="e#17#29#0" expanded="true" />
+                <marker date="1537886558552" expanded="true" signature="7290:7750" ph="..." />
+                <marker date="1537886558552" expanded="true" signature="8646:9242" ph="..." />
+                <marker date="1537886558552" expanded="true" signature="9276:13265" ph="..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/1203558504/posix.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="1410" column="4" selection-start-line="1410" selection-start-column="4" selection-end-line="1410" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/redis/client.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="547" column="13" selection-start-line="547" selection-start-column="13" selection-end-line="547" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/1203558504/math.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1615">
-              <caret line="85" column="38" selection-start-line="85" selection-start-column="38" selection-end-line="85" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -132,6 +104,9 @@
       <find>common</find>
       <find>clean_counter</find>
       <find>acc</find>
+      <find>add</find>
+      <find>interstore</find>
+      <find>权</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -154,6 +129,7 @@
         <option value="$PROJECT_DIR$/ch-04/Aggragate.py" />
         <option value="$PROJECT_DIR$/ch-05/LogRecord.py" />
         <option value="$PROJECT_DIR$/ch-06/Auto_Complete.py" />
+        <option value="$PROJECT_DIR$/ch-07/Search.py" />
       </list>
     </option>
   </component>
@@ -175,22 +151,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Redis" type="b2602c69:ProjectViewProjectNode" />
               <item name="Redis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Redis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Redis" type="462c0819:PsiDirectoryNode" />
-              <item name="ch-02" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Redis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Redis" type="462c0819:PsiDirectoryNode" />
-              <item name="ch-03" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Redis" type="b2602c69:ProjectViewProjectNode" />
@@ -207,11 +174,15 @@
               <item name="Redis" type="462c0819:PsiDirectoryNode" />
               <item name="ch-06" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Redis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Redis" type="462c0819:PsiDirectoryNode" />
+              <item name="ch-07" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -230,7 +201,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.LogRecord">
+  <component name="RunManager" selected="Python tests.Unittests for Search.TestCh07.test_string_to_score">
     <configuration name="Redis" type="JupiterNotebook" factoryName="Jupyter Notebook">
       <module name="Redis" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -249,117 +220,96 @@
       <option name="ipnbPort" value="8888" />
       <method v="2" />
     </configuration>
-    <configuration name="LogRecord" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Redis" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch-05" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch-05/LogRecord.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="LoginCookie" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Redis" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch-02" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch-02/LoginCookie.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pub-sub" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Redis" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch-03" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch-03/pub-sub.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests for TestAlwaysTrue.TestAlwaysTrue.test_assertFalse" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for Search.TestCh07.test_parse_and_search" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Redis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch-07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;TestAlwaysTrue.TestAlwaysTrue.test_assertFalse&quot;" />
+      <option name="_new_target" value="&quot;Search.TestCh07.test_parse_and_search&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for TestAlwaysTrue.TestAlwaysTrue.test_assertTrue" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for Search.TestCh07.test_parse_query" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Redis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch-07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;TestAlwaysTrue.TestAlwaysTrue.test_assertTrue&quot;" />
+      <option name="_new_target" value="&quot;Search.TestCh07.test_parse_query&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for Search.TestCh07.test_search_and_zscore" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Redis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch-07" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Search.TestCh07.test_search_and_zscore&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for Search.TestCh07.test_search_with_sort" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Redis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch-07" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Search.TestCh07.test_search_with_sort&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for Search.TestCh07.test_string_to_score" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Redis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch-07" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Search.TestCh07.test_string_to_score&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Jupyter Notebook.Redis" />
-      <item itemvalue="Python.LoginCookie" />
-      <item itemvalue="Python tests.Unittests for TestAlwaysTrue.TestAlwaysTrue.test_assertTrue" />
-      <item itemvalue="Python tests.Unittests for TestAlwaysTrue.TestAlwaysTrue.test_assertFalse" />
-      <item itemvalue="Python.pub-sub" />
-      <item itemvalue="Python.LogRecord" />
+      <item itemvalue="Python tests.Unittests for Search.TestCh07.test_parse_query" />
+      <item itemvalue="Python tests.Unittests for Search.TestCh07.test_parse_and_search" />
+      <item itemvalue="Python tests.Unittests for Search.TestCh07.test_search_with_sort" />
+      <item itemvalue="Python tests.Unittests for Search.TestCh07.test_search_and_zscore" />
+      <item itemvalue="Python tests.Unittests for Search.TestCh07.test_string_to_score" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.LogRecord" />
-        <item itemvalue="Python.pub-sub" />
-        <item itemvalue="Python.LoginCookie" />
-        <item itemvalue="Python tests.Unittests for TestAlwaysTrue.TestAlwaysTrue.test_assertTrue" />
-        <item itemvalue="Python tests.Unittests for TestAlwaysTrue.TestAlwaysTrue.test_assertFalse" />
+        <item itemvalue="Python tests.Unittests for Search.TestCh07.test_string_to_score" />
+        <item itemvalue="Python tests.Unittests for Search.TestCh07.test_search_and_zscore" />
+        <item itemvalue="Python tests.Unittests for Search.TestCh07.test_search_with_sort" />
+        <item itemvalue="Python tests.Unittests for Search.TestCh07.test_parse_query" />
+        <item itemvalue="Python tests.Unittests for Search.TestCh07.test_parse_and_search" />
       </list>
     </recent_temporary>
   </component>
@@ -377,32 +327,47 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_TestAlwaysTrue_TestAlwaysTrue - 2018.09.13 at 11h 19m 00s.xml">
-      <configuration name="Unittests for TestAlwaysTrue.TestAlwaysTrue" configurationId="tests" />
+    <history-entry file="Unittests_for_Search_TestCh07_test_string_to_score - 2018.09.25 at 19h 36m 19s.xml">
+      <configuration name="Unittests for Search.TestCh07.test_string_to_score" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_TestAlwaysTrue_TestAlwaysTrue_test_assertIs - 2018.09.13 at 11h 19m 28s.xml">
-      <configuration name="Unittests for TestAlwaysTrue.TestAlwaysTrue.test_assertIs" configurationId="tests" />
+    <history-entry file="Unittests_for_Search_TestCh07_test_string_to_score - 2018.09.25 at 19h 37m 53s.xml">
+      <configuration name="Unittests for Search.TestCh07.test_string_to_score" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_TestAlwaysTrue_TestAlwaysTrue_test_assertTrue - 2018.09.13 at 11h 19m 34s.xml">
-      <configuration name="Unittests for TestAlwaysTrue.TestAlwaysTrue.test_assertTrue" configurationId="tests" />
+    <history-entry file="Unittests_for_Search_TestCh07_test_string_to_score - 2018.09.25 at 19h 44m 43s.xml">
+      <configuration name="Unittests for Search.TestCh07.test_string_to_score" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_TestAlwaysTrue_TestAlwaysTrue_test_assertFalse - 2018.09.13 at 11h 19m 38s.xml">
-      <configuration name="Unittests for TestAlwaysTrue.TestAlwaysTrue.test_assertFalse" configurationId="tests" />
+    <history-entry file="Unittests_for_Search_TestCh07_test_string_to_score - 2018.09.25 at 19h 45m 33s.xml">
+      <configuration name="Unittests for Search.TestCh07.test_string_to_score" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_TestAlwaysTrue_TestAlwaysTrue_test_assertTrue - 2018.09.13 at 11h 19m 53s.xml">
-      <configuration name="Unittests for TestAlwaysTrue.TestAlwaysTrue.test_assertTrue" configurationId="tests" />
+    <history-entry file="Unittests_for_Search_TestCh07_test_string_to_score - 2018.09.25 at 19h 46m 02s.xml">
+      <configuration name="Unittests for Search.TestCh07.test_string_to_score" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Search_TestCh07_test_string_to_score - 2018.09.25 at 19h 46m 28s.xml">
+      <configuration name="Unittests for Search.TestCh07.test_string_to_score" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Search_TestCh07_test_string_to_score - 2018.09.25 at 19h 47m 47s.xml">
+      <configuration name="Unittests for Search.TestCh07.test_string_to_score" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Search_TestCh07_test_string_to_score - 2018.09.25 at 19h 48m 44s.xml">
+      <configuration name="Unittests for Search.TestCh07.test_string_to_score" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Search_TestCh07_test_string_to_score - 2018.09.25 at 19h 51m 01s.xml">
+      <configuration name="Unittests for Search.TestCh07.test_string_to_score" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Search_TestCh07_test_string_to_score - 2018.09.25 at 19h 51m 46s.xml">
+      <configuration name="Unittests for Search.TestCh07.test_string_to_score" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19384836" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20243205" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" x="0" y="23" width="1440" height="877" id="Run" order="2" weight="0.4940594" />
+      <window_info anchor="bottom" x="0" y="23" width="1440" height="877" id="Run" order="2" weight="0.5048193" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -412,7 +377,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32970297" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.66930693" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -477,13 +442,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/1203558504/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="2846" column="69" lean-forward="true" selection-start-line="2846" selection-start-column="69" selection-end-line="2846" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/unittest/runner.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
@@ -495,13 +453,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="255" selection-start-line="255" selection-end-line="255" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch-05/LogRecord.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="242" column="25" selection-start-line="242" selection-start-column="25" selection-end-line="242" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -519,6 +470,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="669" selection-start-line="669" selection-end-line="669" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/teamcity/diff_tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/1203558504/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="3625" column="8" selection-start-line="3625" selection-start-column="8" selection-end-line="3625" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/1203558504/posix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26790">
+          <caret line="1410" column="4" selection-start-line="1410" selection-start-column="4" selection-end-line="1410" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/1203558504/math.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1615">
@@ -526,36 +505,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/redis/client.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="547" column="13" selection-start-line="547" selection-start-column="13" selection-end-line="547" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/1203558504/posix.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="1410" column="4" selection-start-line="1410" selection-start-column="4" selection-end-line="1410" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ch-06/Auto_Complete.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="374" column="23" selection-start-line="374" selection-start-column="23" selection-end-line="374" selection-end-column="23" />
+        <state relative-caret-position="250">
+          <caret line="363" column="71" selection-start-line="363" selection-start-column="71" selection-end-line="363" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch-05/LogRecord.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="250" column="9" lean-forward="true" selection-start-line="250" selection-start-column="9" selection-end-line="250" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/redis/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="1710" column="59" selection-start-line="1710" selection-start-column="59" selection-end-line="1710" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch-07/Search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="266" column="37" selection-start-line="266" selection-start-column="37" selection-end-line="266" selection-end-column="37" />
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
-            <marker date="1537541892052" expanded="true" signature="241:246" ph="..." />
-            <marker date="1537541892052" expanded="true" signature="476:481" ph="..." />
-            <marker date="1537541892052" expanded="true" signature="565:570" ph="..." />
-            <marker date="1537541892052" expanded="true" signature="861:866" ph="..." />
-            <marker date="1537541892052" expanded="true" signature="1069:1074" ph="..." />
-            <marker date="1537541892052" expanded="true" signature="1839:1844" ph="..." />
-            <marker date="1537541892052" expanded="true" signature="1917:1922" ph="..." />
-            <marker date="1537541892052" expanded="true" signature="2014:2019" ph="..." />
-            <marker date="1537541892052" expanded="true" signature="2308:2313" ph="..." />
-            <marker date="1537541892052" expanded="true" signature="12448:12711" ph="..." />
+            <element signature="e#17#29#0" expanded="true" />
+            <marker date="1537886558552" expanded="true" signature="7290:7750" ph="..." />
+            <marker date="1537886558552" expanded="true" signature="8646:9242" ph="..." />
+            <marker date="1537886558552" expanded="true" signature="9276:13265" ph="..." />
           </folding>
         </state>
       </provider>
